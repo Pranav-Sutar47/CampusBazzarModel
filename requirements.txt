@@ -2,3 +2,4 @@ flask
 pymongo
 bson
 requests
+gunicorn
