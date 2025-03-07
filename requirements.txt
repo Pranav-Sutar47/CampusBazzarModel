@@ -1,5 +1,4 @@
 flask
 pymongo
 bson
-json
 requests
